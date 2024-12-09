@@ -76,7 +76,7 @@
         "screenShotLightPath": "/somewhere/screenShotLight.png",
         "showDeferralCount": true,
         "simpleMode": true,
-        "singleQuitButton": true,
+        "singleQuitButton": false,
         "updateElements": [
             {
                 "_language": "en",
