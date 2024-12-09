@@ -32,6 +32,10 @@
                 {
                     "_language": "de",
                     "aboutUpdateURL": "https://support.apple.com/de-de/HT211896"
+                },
+                {
+                    "_language": "nl",
+                    "aboutUpdateUrl": "https://support.apple.com/nl-nl/HT211896"
                 }
             ],
             "majorUpgradeAppPath": "/Applications/Install macOS Seqouia.app",
