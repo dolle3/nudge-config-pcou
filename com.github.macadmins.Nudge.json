@@ -35,7 +35,7 @@
                 }
             ],
             "majorUpgradeAppPath": "/Applications/Install macOS Seqouia.app",
-            "requiredInstallationDate": "2024-12-11T00:00:00Z",
+            "requiredInstallationDate": "2024-12-09T00:00:00Z",
             "requiredMinimumOSVersion": "15.1.1",
             "targetedOSVersionsRule": "default"
         }
