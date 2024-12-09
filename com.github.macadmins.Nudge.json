@@ -60,7 +60,7 @@
         "imminentWindowTime": 24,
         "initialRefreshCycle": 18000,
         "launchAgentIdentifier": "com.github.macadmins.Nudge",
-        "loadLaunchAgent": false,
+        "loadLaunchAgent": true,
         "maxRandomDelayInSeconds": 60,
         "noTimers": false,
         "nudgeRefreshCycle": 60,
