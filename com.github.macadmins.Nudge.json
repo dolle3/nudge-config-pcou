@@ -140,7 +140,7 @@
                 "screenShotAltText": "Hier klicken, um den Screenshot zu vergrößern"
             },
             {
-                "_language": "en",
+                "_language": "nl",
                 "actionButtonText": "Update Device",
                 "customDeferralButtonText": "Custom",
                 "customDeferralDropdownText": "Defer",
