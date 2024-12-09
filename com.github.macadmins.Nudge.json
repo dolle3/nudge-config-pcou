@@ -75,7 +75,7 @@
         "screenShotDarkPath": "/somewhere/screenShotDark.png",
         "screenShotLightPath": "/somewhere/screenShotLight.png",
         "showDeferralCount": true,
-        "simpleMode": false,
+        "simpleMode": true,
         "singleQuitButton": true,
         "updateElements": [
             {
