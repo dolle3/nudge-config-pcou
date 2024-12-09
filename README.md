@@ -1,1 +1,1 @@
-main branch is voor het algemene json script
+de folders zijn per school de scripts worden per school gemaakt.
