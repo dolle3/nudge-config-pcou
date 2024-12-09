@@ -67,8 +67,8 @@
         "randomDelay": false
     },
     "userInterface": {
-        "fallbackLanguage": "en",
-        "forceFallbackLanguage": false,
+        "fallbackLanguage": "nl",
+        "forceFallbackLanguage": true,
         "forceScreenShotIcon": false,
         "iconDarkPath": "/somewhere/logoDark.png",
         "iconLightPath": "/somewhere/logoLight.png",
